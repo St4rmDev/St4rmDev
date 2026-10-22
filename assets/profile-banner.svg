@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+<title id="title">St4rmDev — Software Development and Quality Assurance</title><desc id="description">Applications, API integrations and Linux deployment. Build, test, deploy.</desc>
+<rect width="1200" height="360" rx="16" fill="#15151b"/>
+<path d="M0 290H1200M780 0V360M840 0V360M900 0V360M960 0V360M1020 0V360M1080 0V360M1140 0V360M780 60H1200M780 120H1200M780 180H1200M780 240H1200" stroke="#25242e"/>
+<rect x="44" y="49" width="5" height="210" fill="#ff6b62"/>
+<text x="75" y="75" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#aaa7b7">SOFTWARE DEVELOPMENT / QUALITY ASSURANCE</text>
+<text x="69" y="163" font-family="Arial,sans-serif" font-weight="800" font-size="79" letter-spacing="-5" fill="#f2f1f4">St4rm<tspan fill="#ff6b62">Dev</tspan></text>
+<text x="75" y="218" font-family="Arial,sans-serif" font-size="22" fill="#b2aebb">Applications. Integrations. Attention to detail.</text>
+<text x="75" y="323" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#aaa7b7">PYTHON   /   REST APIs   /   QA   /   LINUX</text>
+<g transform="translate(813 52)" font-family="Arial,sans-serif">
+<rect width="315" height="58" rx="7" fill="#202028" stroke="#45414f"/><text x="18" y="35" font-size="12" fill="#ff6b62">01</text><text x="60" y="35" font-size="16" fill="#f2f1f4">BUILD &amp; INTEGRATE</text>
+<path d="M158 59V88" stroke="#ff6b62"/><path d="m154 82 4 6 4-6" fill="none" stroke="#ff6b62"/>
+<rect y="89" width="315" height="58" rx="7" fill="#202028" stroke="#45414f"/><text x="18" y="124" font-size="12" fill="#ff6b62">02</text><text x="60" y="124" font-size="16" fill="#f2f1f4">INVESTIGATE &amp; TEST</text>
+<path d="M158 148V177" stroke="#ff6b62"/><path d="m154 171 4 6 4-6" fill="none" stroke="#ff6b62"/>
+<rect y="178" width="315" height="58" rx="7" fill="#202028" stroke="#45414f"/><text x="18" y="213" font-size="12" fill="#ff6b62">03</text><text x="60" y="213" font-size="16" fill="#f2f1f4">DEPLOY &amp; MAINTAIN</text>
+</g></svg>
