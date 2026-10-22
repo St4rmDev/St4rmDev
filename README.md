@@ -24,6 +24,6 @@ I build and test mobile and desktop applications, API-connected tools and automa
 
 **Certificates** — Google Cybersecurity Professional Certificate (2024) · AWS Cloud Technology Consultant Professional Certificate (2024) · Cisco Networking Basics (2023)
 
-**German exams** — Goethe-Zertifikat A2 (2026) · ÖSD B1 Schreiben module passed (2026)
+**German exams** — Goethe-Zertifikat A2 (2026) · ÖSD Zertifikat B1 (2026)
 
-**Languages** — Turkish (native) · English (C1) · Russian (B1) · Polish (A2) · **German (B1)**
+**Languages** — Turkish (native) · English (C1) · Russian (B1, certified) · Polish (A2) · **German (B1)**
